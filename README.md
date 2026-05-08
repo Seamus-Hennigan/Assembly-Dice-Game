@@ -1,6 +1,6 @@
 # Assembly Dice Game
 
-A simple console dice game written in **x86 (32-bit) MASM assembly** with a small C++ helper module. Built for the Computer Architecture with Assembly course at JWU.
+A simple console dice game written in **x86 (32-bit) MASM assembly** with a small C++ helper module.
 
 ## Gameplay
 
